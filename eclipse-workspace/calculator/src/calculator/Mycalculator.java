@@ -9,6 +9,7 @@ public class Mycalculator {
 		int fnum, snum, answer,option;
 		Scanner input = new Scanner(System.in); 
 		System.out.println(" enter first number");
+		System.out.println("etername");
 		fnum = input.nextInt();
 		System.out.println(" enter second number");
 		snum = input.nextInt();
